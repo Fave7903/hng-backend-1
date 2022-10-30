@@ -1,0 +1,23 @@
+{
+  "name": "hng-backend-1",
+  "version": "1.0.0",
+  "description": "Stage 1 task for backend HNG internship",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fave7903/hng-backend-1.git"
+  },
+  "author": "Favour Solomon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fave7903/hng-backend-1/issues"
+  },
+  "homepage": "https://github.com/Fave7903/hng-backend-1#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
